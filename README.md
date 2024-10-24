@@ -1,5 +1,5 @@
 ## &nbsp; Welcome!
-- 🔭 Currently working: working with software development using the Microsoft .NET Framework (C#, ASP.NET, Entity Framework); Also on Game Development using UnityEngine with C#, i've made a mobile game for 7 different stores world-wide (Android Platform), now creating other project that i can raise my Game Development career;
+- 🔭 Currently working: working with software development using the Microsoft .NET Framework (C#, ASP.NET, Entity Framework); Also on Game Development using UnityEngine;
 - 🌱 Currently learning: all possible about Microsoft .NET Framework and Unity Engine game development. For my game developer carrer im learning advanced (low-level programming) stuff like: OpenGL with C++...
 - 📫 How to reach me: Discord: (Rodrigo França#7012) - Linkedin: https://www.linkedin.com/in/rodrigo-SFranca/ *(almost always online, feel free to reach me out!)*
 
